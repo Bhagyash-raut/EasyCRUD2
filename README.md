@@ -10,7 +10,7 @@ Installing MariaDB on Ubntu Ubuntu
 apt update && apt install mariadb-server -y
 ```
 
-## 2. Securing MariaDB  MariaDb
+## 2. Securing MariaDB  Maria
 
 Open the Command Prompt as Administrator and run the following command to secure your installation:
 
